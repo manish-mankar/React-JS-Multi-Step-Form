@@ -12,12 +12,16 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Setup Instructions
 
-1. Start the development server:
+1. Install Dependencies:
+
+- `npm install`: Install dependencies.
+
+2. Start the development server:
 
 - `npm run dev`: Runs the app in development mode.
 
 
-2. Open your browser and visit `http://localhost:5173` to view the application.
+3. Open your browser and visit `http://localhost:5173` to view the application.
 
 ## Available Scripts
 
